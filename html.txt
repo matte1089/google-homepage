@@ -13,13 +13,34 @@
 
 </div>
 
+<div class = "logo">
+
 <a href="Google"> <img src=https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png
 alt="Google Logo"> </a>
-
-
 <form action = "https://www.google.com/">
 <input type = "text" placeholder= "Search">
 </form>
+
+</div>
+
+<div class = "button">
+
+<button type="button">Google Search</button>
+<button type="button">"I'm Feeling Lucky"</button>
+
+<p>Celebrating Women History Makers, Pioneers, and Future Leaders</p>
+
+</div>
+
+
+<div class = "Footer">
+<li><a href="#">Adversiting</a></li>
+<li><a href="#">Business</a></li>
+<li><a href="#">How Search Works</a></li>
+<li><a href="#">Privacy</a></li>
+<li><a href="#">Terms</a></li>
+<li><a href="#">Setting</a></li>
+</div>
 
 
 
